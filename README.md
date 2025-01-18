@@ -1,3 +1,5 @@
+All credits to [danpeig](https://github.com/danpeig)
+
 # ESP32 + ESPHome Open Source Energy Monitor
 
 ## Introduction
