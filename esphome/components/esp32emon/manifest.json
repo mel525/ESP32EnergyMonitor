@@ -1,0 +1,11 @@
+{
+  "name": "ESP32 Energy Monitor",
+  "version": "1.0.0",
+  "dependencies": [],
+  "requirements": [],
+  "esphome": "2024.12.2",
+  "documentation": "https://github.com/mel525/ESP32EnergyMonitor/tree/main/esphome/components/esp32emon",
+  "authors": [
+    "mel525"
+  ]
+}
